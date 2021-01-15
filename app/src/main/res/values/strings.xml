@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UAS</string>
+    <string name="data_penyewa">DATA PENYEWA</string>
+    <string name="string_data_penyewa" />
+    <string name="return_date">Return Date</string>
+    <string name="jenis_mobil">Jenis Mobil</string>
+    <string name="total_pembayaran">Total Pembayaran</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="no_ktp">No. KTP</string>
+    <string name="pickup_date">Pickup Date</string>
+    <string name="no_telp">No Telp</string>
+    <string name="alamat_lengkap">Alamat Lengkap</string>
+    <string name="npm_18082010003">NPM : 18082010003</string>
+    <string name="profile">PROFILE</string>
+    <string name="nama_hellen_agustina">Nama : Hellen Agustina</string>
+    <string name="no_telp_08229200112">No Telp : 08229200112</string>
+    <string name="todo">TODO</string>
+    <string name="prodi_sistem_informasi">Prodi : Sistem Informasi</string>
+    <string name="data_penyewaI">DATA PENYEWA</string>
+</resources>
